@@ -1,38 +1,30 @@
-# project-overnight/po-reviews
+# Project Overnight: Reviews Service
 
-> This is the reviews module of Project Overnight.
+> A service that dynamically renders visitor reviews. Represents rating averages with bar graphs and paginates the list of reviews.
 
 ## Related Projects
 
-  - https://github.com/project-overnight/po-photo-banner
-  - https://github.com/teamName/po-description
-  - https://github.com/teamName/po-reservation
-
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+  - **Photo Banner Module:** https://github.com/project-overnight/po-photo-banner
+  - **Description Module:** https://github.com/teamName/po-description
+  - **Reservation Module:** https://github.com/teamName/po-reservation
 
 ## Usage
 
-> Some usage instructions
+**Install dependencies**
+> npm install
 
-## Requirements
+**Set up environment variables**
+- Make a copy of .env_sample and configure the environment variables as necessary.
+- Save as .env and ensure it is added to .gitignore.
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
+**Seed the database via seeder.js**
+> npm run seed
 
-- Node 6.13.0
-- etc
+**Start up the server (webpack with babel)**
+> npm run build
 
-## Development
+**Start up the client**
+> npm start
 
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g webpack
-npm install
-```
-
+## Style Guide
+This module follows [Airbnb style guide](https://github.com/airbnb/javascript)
