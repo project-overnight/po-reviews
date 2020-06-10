@@ -6,7 +6,7 @@
 
   - **Photo Banner Module:** https://github.com/project-overnight/po-photo-banner
   - **Description Module:** https://github.com/project-overnight/po-description
-  - **Reservation Module:** https://github.com/project-overnight/po-reservation
+  - **Reservation Module:** https://github.com/project-overnight/po-reservations
 
 ## Usage
 
