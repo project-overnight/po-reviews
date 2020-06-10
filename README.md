@@ -1,12 +1,12 @@
 # Project Overnight: Reviews Service
 
-A service that dynamically renders visitor reviews, represents rating averages with bar graphs, and paginates the list of reviews.
+The reviews module of Project Overnight dynamically renders visitor reviews and represents rating averages via bar graphs.
 
 ## Related Projects
 
-  - **Photo Banner Module:** https://github.com/project-overnight/po-photo-banner
-  - **Description Module:** https://github.com/project-overnight/po-description
-  - **Reservation Module:** https://github.com/project-overnight/po-reservations
+  - Photo Banner Module: https://github.com/project-overnight/po-photo-banner
+  - Description Module: https://github.com/project-overnight/po-description
+  - Reservation Module: https://github.com/project-overnight/po-reservations
 
 ## Usage
 
