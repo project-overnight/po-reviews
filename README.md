@@ -1,6 +1,6 @@
 # Project Overnight: Reviews Service
 
-> A service that dynamically renders visitor reviews. Represents rating averages with bar graphs and paginates the list of reviews.
+A service that dynamically renders visitor reviews, represents rating averages with bar graphs, and paginates the list of reviews.
 
 ## Related Projects
 
