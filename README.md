@@ -5,8 +5,8 @@
 ## Related Projects
 
   - **Photo Banner Module:** https://github.com/project-overnight/po-photo-banner
-  - **Description Module:** https://github.com/teamName/po-description
-  - **Reservation Module:** https://github.com/teamName/po-reservation
+  - **Description Module:** https://github.com/project-overnight/po-description
+  - **Reservation Module:** https://github.com/project-overnight/po-reservation
 
 ## Usage
 
