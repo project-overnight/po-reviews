@@ -2,6 +2,9 @@
 
 The reviews module of Project Overnight dynamically renders visitor reviews and represents rating averages via bar graphs.
 
+![Reviews Demo](demo/demo.gif)
+*The outside margins of this module were left unset, so that they can be controlled on the proxy level.*
+
 ## Related Projects
 
   - Photo Banner Module: https://github.com/project-overnight/po-photo-banner
@@ -17,7 +20,7 @@ The reviews module of Project Overnight dynamically renders visitor reviews and 
 - Make a copy of .env_sample and configure the environment variables as necessary.
 - Save as .env and ensure it is added to .gitignore.
 
-**Seed the database via seeder.js**
+**Seed the database**
 > npm run seed
 
 **Build webpack bundle**
