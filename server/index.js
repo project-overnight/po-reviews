@@ -15,4 +15,4 @@ app.get('/api/reviews/:id', (req, res) => {
     .catch((err) => res.status(400).json({ message: `Error: ${err}` }));
 });
 
-app.listen(process.env.PORT, () => console.log(`listening on port ${process.env.PORT}`));
+app.listen(process.env.SERVER_PORT, () => console.log(`listening on port ${process.env.SERVER_PORT}`));
