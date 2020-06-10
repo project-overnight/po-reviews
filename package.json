@@ -10,8 +10,7 @@
     "build:dev": "webpack --watch",
     "seed": "node database/seeder.js",
     "start": "node server",
-    "start:dev": "nodemon server -i client -w server",
-    "test": "jest"
+    "start:dev": "nodemon server -i client -w server"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
@@ -42,10 +41,6 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^2.5.0",
-    "jest": "^26.0.1",
-    "jest-config": "^26.0.1",
-    "jest-environment-enzyme": "^7.1.2",
-    "jest-enzyme": "^7.1.2",
     "nodemon": "^2.0.3",
     "style-loader": "^1.2.1",
     "webpack": "^4.43.0",
