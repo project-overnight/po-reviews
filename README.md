@@ -3,7 +3,8 @@
 The reviews module of Project Overnight dynamically renders visitor reviews and represents rating averages via bar graphs.
 
 ![Reviews Demo](demo/demo.gif)
-*The outside margins of this module were left unset, so that they can be controlled on the proxy level.*
+
+*(The outside margins of this module were intentionally left unset, so that they can be controlled on the proxy level.)*
 
 ## Related Projects
 
