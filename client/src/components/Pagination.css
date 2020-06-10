@@ -39,6 +39,7 @@
 
 .pageButtonUnclicked {
   color: #00A699;
+  background-color: white;
   width: 2.5em;
   height: 2.5em;
   line-height: 2.5em;
