@@ -20,10 +20,10 @@
 **Seed the database via seeder.js**
 > npm run seed
 
-**Start up the server (webpack with babel)**
+**Build webpack bundle**
 > npm run build
 
-**Start up the client**
+**Start up the server**
 > npm start
 
 ## Style Guide
